@@ -4,7 +4,7 @@
                             B.Tech in Artificial Intelligence And Data Science.
   
 - 🔭 I’m currently working on ...
-                            A project i.e an e-commerce web that reaches more fashion designing merchants and their clients.
+                            A project i.e a connecting people that reaches more consultants jobseekers and their clients.
 
 - 👯 I'm ready to free lance ...
                             In any web development projects.
